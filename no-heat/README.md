@@ -5,3 +5,6 @@ TK description
 TK 
 
 ## Methodology
+
+### Clean data
+Cleaned the service address and date opened columns in (/notebooks/clean-addresses-dates.ipynb)
