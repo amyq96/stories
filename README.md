@@ -1,3 +1,3 @@
 # WBEZ story notebooks
 
-My jupyter notebooks for my WBEZ stories live here :)
+My jupyter notebooks for select WBEZ stories live here :)
